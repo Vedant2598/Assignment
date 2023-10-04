@@ -1,0 +1,2 @@
+curl -X GET http://192.168.0.101:3005/api/blog-search?query=privacy
+curl -X GET http://192.168.0.101:3005/api/blog-stats
